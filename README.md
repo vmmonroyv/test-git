@@ -6,7 +6,7 @@ Este es un proyecto de prueba en Laravel subido a GitHub para practicar comandos
 
 ## 📌 Características principales
 
-- Framework **Laravel 10**
+- Framework **Laravel 12**
 - Arquitectura MVC
 - Rutas, controladores y vistas listos para extender
 - Estructura estándar de proyecto Laravel
@@ -19,7 +19,7 @@ Este es un proyecto de prueba en Laravel subido a GitHub para practicar comandos
 
 Asegúrate de tener instalado:
 
-- **PHP 8.1+**
+- **PHP 8.2+**
 - **Composer**
 - **Laravel Installer (opcional)**
 - **MySQL / MariaDB** o el motor que uses
